@@ -1,0 +1,35 @@
+c:\users\student\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+c:\users\student\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+c:\users\student\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+c:\users\student\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+c:\users\student\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+c:\users\student\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+c:\users\student\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\Firec\Desktop\Praxe_VSB_FEI\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Firec\Desktop\Praxe_VSB_FEI\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Firec\Desktop\Praxe_VSB_FEI\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Firec\Desktop\Praxe_VSB_FEI\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\Firec\Desktop\Praxe_VSB_FEI\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Firec\Desktop\Praxe_VSB_FEI\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Firec\Desktop\Praxe_VSB_FEI\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+D:\Praxe_VSB_FEI\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\Praxe_VSB_FEI\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\Praxe_VSB_FEI\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\Praxe_VSB_FEI\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+D:\Praxe_VSB_FEI\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Praxe_VSB_FEI\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\Praxe_VSB_FEI\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\firecrazy\Desktop\randy dandy shit\programovani\Praxe_VSB_FEI\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\firecrazy\Desktop\randy dandy shit\programovani\Praxe_VSB_FEI\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\firecrazy\Desktop\randy dandy shit\programovani\Praxe_VSB_FEI\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\firecrazy\Desktop\randy dandy shit\programovani\Praxe_VSB_FEI\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\firecrazy\Desktop\randy dandy shit\programovani\Praxe_VSB_FEI\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\firecrazy\Desktop\randy dandy shit\programovani\Praxe_VSB_FEI\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\firecrazy\Desktop\randy dandy shit\programovani\Praxe_VSB_FEI\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\firecrazy\Desktop\randy dandy shit\programovani\Praxe_VSB_FEI\csharp-calculator\ConsoleApp1\bin\Debug\csharp-calculator.exe.config
+C:\Users\firecrazy\Desktop\randy dandy shit\programovani\Praxe_VSB_FEI\csharp-calculator\ConsoleApp1\bin\Debug\csharp-calculator.exe
+C:\Users\firecrazy\Desktop\randy dandy shit\programovani\Praxe_VSB_FEI\csharp-calculator\ConsoleApp1\bin\Debug\csharp-calculator.pdb
+C:\Users\firecrazy\Desktop\randy dandy shit\programovani\Praxe_VSB_FEI\csharp-calculator\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\firecrazy\Desktop\randy dandy shit\programovani\Praxe_VSB_FEI\csharp-calculator\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\firecrazy\Desktop\randy dandy shit\programovani\Praxe_VSB_FEI\csharp-calculator\ConsoleApp1\obj\Debug\csharp-calculator.exe
+C:\Users\firecrazy\Desktop\randy dandy shit\programovani\Praxe_VSB_FEI\csharp-calculator\ConsoleApp1\obj\Debug\csharp-calculator.pdb
